@@ -233,3 +233,6 @@ Nest two new div elements within .bb2, give them the classes of bb2a and bb2b, i
 
 Step 49
 Give .bb2b a width and height of 100% to make it fill the building container. You will add something on the top a little later.
+
+Step 50
+Create a new variable in :root named window-color2 with a value of #8cd9b3. This will be used as the secondary color for this building.
