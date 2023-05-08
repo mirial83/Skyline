@@ -169,3 +169,6 @@ You should optimize your code. Move the position and top properties and values f
 
 Step 34
 Now that you did that, you can delete the old .foreground-buildings declaration and all of its properties since they aren't needed anymore.
+
+Step 35
+The skyline is coming together. Fill in the background-color property of the foreground buildings. Use your --building-color1 variable to fill in .fb3 and .fb4, --building-color2 for .fb5, --building-color3 for .fb2 and .fb6, and --building-color4 for .fb1.
