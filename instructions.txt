@@ -35,3 +35,7 @@ to hide any scroll bars that appear when something extends past the viewport.
 Step 8
 Create a div element in the body with a class of background-buildings. 
 This will be a container for a group of buildings.
+
+Step 9
+Give your .background-buildings element a width and height of 100% to 
+make it the full width and height of its parent, the body.
