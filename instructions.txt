@@ -196,3 +196,6 @@ In the example, color1 is solid at the top, color2 is solid at the bottom, and i
 
 Step 41
 You want to add the same gradient to the next two sections. Instead of doing that, create a new class selector called bb1-window, and move the height and background properties and values from .bb1a to the new class selector.
+
+Step 42
+Add the new bb1-window class to the .bb1a, .bb1b, and .bb1c elements. This will apply the gradient to them.
