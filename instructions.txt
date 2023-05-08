@@ -166,3 +166,6 @@ Flexbox to evenly space the buildings across the bottom of their container.
 
 Step 33
 You should optimize your code. Move the position and top properties and values from .foreground-buildings to .background-buildings. Then select both .background-buildings and .foreground-buildings there, effectively applying those styles to both of the elements. You can use a comma (,) to separate selectors like this: selector1, selector2.
+
+Step 34
+Now that you did that, you can delete the old .foreground-buildings declaration and all of its properties since they aren't needed anymore.
