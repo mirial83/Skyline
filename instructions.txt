@@ -77,3 +77,9 @@ of the background-color property of the .bb1a class.
 Step 16
 Use the same variable as the background-color of the .bb1b, .bb1c, and .bb1d 
 classes to fill in the rest of the building.
+
+Step 17
+Change the value of your variable from #999 to #aa80ff and you can see how 
+it gets applied everywhere you used the variable. This is the main advantage 
+of using variables, being able to quickly change many values in your stylesheet 
+by just changing the value of a variable.
