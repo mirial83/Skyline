@@ -106,3 +106,8 @@ The buildings are too spaced out. Squeeze them together by adding two empty div
 elements to the top of the .background-buildings element, two more at the bottom 
 of it, and one more in between .bb3 and .bb4. These will be added as evenly-spaced 
 elements across the container, effectively moving the buildings closer to the center.
+
+Step 22
+Create a new variable below your --building-color1 variable. Name your new variable 
+--building-color2 and give it a value of #66cc99. Then set it as the background-color 
+of .bb2.
