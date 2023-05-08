@@ -117,3 +117,8 @@ That didn't work. You should add a fallback value to a variable by putting it as
 second value of where you use the variable like this: var(--variable-name, 
 fallback-value). The property will use the fallback value when there's a problem with 
 the variable. Add a fallback value of green to the background-color of .bb2.
+
+Step 24
+Create a new variable below the other ones named --building-color3 and give it a 
+value of #cc6699. Then use it as the background-color of the .bb3 class and give it a 
+fallback value of pink.
