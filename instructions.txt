@@ -137,3 +137,8 @@ remove the fallback values in the two places they were used. Go ahead and do tha
 Step 27
 Create another variable named --building-color4 and give it a value of #538cc6. Make 
 sure it's in the :root selector this time. Then use it to fill in the last building.
+
+Step 28
+The background buildings are starting to look pretty good. Create a new div below the 
+.background-buildings element and give it a class of foreground-buildings. This will 
+be another container for more buildings.
