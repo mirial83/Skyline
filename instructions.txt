@@ -129,3 +129,7 @@ That didn't work, because the variables you declared in .bb1 do not cascade to t
 are often declared in the :root selector. This is the highest level selector in CSS; 
 putting your variables there will make them usable everywhere. Add the :root selector 
 to the top of your stylesheet, and move all your variable declarations there.
+
+Step 26
+Now that you've worked the bugs out and the buildings are the right colors, you can 
+remove the fallback values in the two places they were used. Go ahead and do that now.
