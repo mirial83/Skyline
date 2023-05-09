@@ -471,3 +471,6 @@ Step 115
 Copy and paste your whole sky class along with all of its properties and values into the media query. You are going to make another color scheme for the skyline that changes it from day to night.
 
 Note: You are going to need to scroll past the editable region to copy the class.
+
+Step 116
+In the sky class of the media query, change the two #ffcf33 color values to #ccc, the #ffff66 to #445, and the #bbeeff to #223. Then you can resize your window to see the background change colors.
