@@ -401,3 +401,6 @@ Give the .fb3-window elements a width of 25%, a height of 80%, and use your --wi
 
 Step 94
 Add your window-wrap class to the .fb3a element to center and space the windows.
+
+Step 95
+With CSS variables you can change values without searching everywhere in the stylesheet. Change the --window-color1 value to #bb99ff.
