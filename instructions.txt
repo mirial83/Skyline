@@ -380,3 +380,6 @@ Move the background-color property and value from .fb2 to .fb2b to just color th
 
 Step 87
 For .fb2a, add a border-bottom of 10vh solid var(--building-color3), and a border-left and border-right of 1vw solid transparent. This time the border trick will create a trapezoid shape.
+
+Step 88
+For the next building, nest four div elements within .fb3 with classes of fb3a, fb3b, fb3a again, and fb3b again, in that order. This building will have four sections, and the top two will be almost the same as the bottom two.
