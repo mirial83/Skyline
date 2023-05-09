@@ -398,3 +398,6 @@ Nest three new div elements in the first .fb3a element. Give them each a class o
 
 Step 93
 Give the .fb3-window elements a width of 25%, a height of 80%, and use your --window-color1 variable as the background-color value.
+
+Step 94
+Add your window-wrap class to the .fb3a element to center and space the windows.
