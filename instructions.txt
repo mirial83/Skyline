@@ -449,3 +449,6 @@ You can remove the background-color for this building now, since it isn't needed
 
 Step 110
 Okay, the buildings are done. Go back to the * selector and remove the border you applied to everything at the beginning and the buildings will come together.
+
+Step 111
+Add sky as a second class to the .background-buildings element. You are going to make a background for the skyline.
