@@ -440,3 +440,6 @@ You don't need the background-color for this building anymore so you can remove 
 
 Step 107
 Finally! You made it to the last building! Add a repeating gradient to it with a 90deg direction. Use the building color from 0% to 10% and transparent from 10% to 30%.
+
+Step 108
+Add another repeating gradient to this building; make it the same as the one you just added, except don't add the 90deg direction and use your window color instead of the two transparent colors.
