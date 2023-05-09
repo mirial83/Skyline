@@ -271,3 +271,6 @@ Next, remove the width and height from .bb2a, and change the border-left and bor
 
 Step 56
 Next, change the two #999 of .bb2a to transparent. This will make the left and right borders invisible.
+
+Step 57
+Remove the margin and border-top properties and values from .bb2a to turn it into a triangle for the top of the building.
