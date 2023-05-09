@@ -25,6 +25,9 @@ body {
     position: absolute;
     top: 0;
 }
+.building-wrap {
+    
+}
 /* BACKGROUND BUILDINGS - "bb" stands for "background building" */
 .bb1 {
     width: 10%;
