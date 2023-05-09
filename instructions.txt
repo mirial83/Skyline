@@ -362,3 +362,6 @@ When you increase the size of the left and right borders, the border on the bott
 
 Step 81
 On to the next building! Nest two div elements within .fb2 and give them classes of fb2a and fb2b, in that order.
+
+Step 82
+Give .fb2a a width of 100% and .fb2b a width of 100% and height of 75%.
