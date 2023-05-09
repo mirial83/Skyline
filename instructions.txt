@@ -395,3 +395,6 @@ Add your building-wrap class to the .fb3 element to center the sections.
 
 Step 92
 Nest three new div elements in the first .fb3a element. Give them each a class of fb3-window. These will be windows for this section.
+
+Step 93
+Give the .fb3-window elements a width of 25%, a height of 80%, and use your --window-color1 variable as the background-color value.
