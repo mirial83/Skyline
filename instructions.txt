@@ -410,3 +410,6 @@ Only three more buildings to go. Nest two new div elements within the .fb4 eleme
 
 Step 97
 Give .fb4b a width of 100% and height of 89%.
+
+Step 98
+Add your --building-color1 variable as value of the background-color property of .fb4b. Then, remove the background-color from .fb4.
