@@ -296,3 +296,6 @@ Remove the background-color property and value from .bb3 since you are using the
 
 Step 62
 The next building will have three sections. Nest three div elements within .bb4. Give them the classes of bb4a, bb4b and bb4c in that order.
+
+Step 63
+Give the new div elements these width and height values: 3% and 10% to .bb4a, 80% and 5% to .bb4b, and 100% and 85% to .bb4c.
