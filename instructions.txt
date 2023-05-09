@@ -311,3 +311,6 @@ Move the display, flex-direction, and align-items properties and values from .bb
 
 Step 67
 Add the new building-wrap class to the .bb1 and .bb4 elements. This will apply the centering properties to the buildings that need it.
+
+Step 68
+Create a new variable called --window-color4 in :root and give it a value of #8cb3d9. This will be the secondary color for the last background building.
