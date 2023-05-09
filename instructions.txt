@@ -446,3 +446,6 @@ Add another repeating gradient to this building; make it the same as the one you
 
 Step 109
 You can remove the background-color for this building now, since it isn't needed.
+
+Step 110
+Okay, the buildings are done. Go back to the * selector and remove the border you applied to everything at the beginning and the buildings will come together.
