@@ -392,3 +392,6 @@ Remove the background-color property and value from .fb3, and add them to .fb3a 
 
 Step 91
 Add your building-wrap class to the .fb3 element to center the sections.
+
+Step 92
+Nest three new div elements in the first .fb3a element. Give them each a class of fb3-window. These will be windows for this section.
