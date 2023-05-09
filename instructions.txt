@@ -368,3 +368,6 @@ Give .fb2a a width of 100% and .fb2b a width of 100% and height of 75%.
 
 Step 83
 Nest three div elements within .fb2b and give them a class of fb2-window. These will be windows for this section of the building.
+
+Step 84
+Add your window-wrap class to .fb2b to position the new window elements.
