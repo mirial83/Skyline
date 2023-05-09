@@ -383,3 +383,6 @@ For .fb2a, add a border-bottom of 10vh solid var(--building-color3), and a borde
 
 Step 88
 For the next building, nest four div elements within .fb3 with classes of fb3a, fb3b, fb3a again, and fb3b again, in that order. This building will have four sections, and the top two will be almost the same as the bottom two.
+
+Step 89
+Give the .fb3a element a width of 80% and height of 15%. Then give the .fb3b element a width of 100% and height of 35%.
